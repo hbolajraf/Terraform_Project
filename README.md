@@ -27,3 +27,10 @@ Terraform_Project
 │
 └── .terraform                 # Directory containing Terraform's internal files
 ```
+## Run the following Terraform cmds in order to deploy the ressources : 
+```bash
+`terraform init` to initialize the Terraform configuration.
+`terraform plan` to review the resources that will be created.
+`terraform apply` to provision the Azure resources.
+`terraform destroy` When you no longer need the resources, clean up by destroying them with Terraform.
+```
