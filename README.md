@@ -1,5 +1,5 @@
 ## Description
-This project is related to a post that I share within my website : [https://hbolajraf.net/](https://hbolajraf.net/posts/Terraform-project-for-creating-Azure-Resources/)
+This project is related to a [post](https://hbolajraf.net/posts/Terraform-project-for-creating-Azure-Resources/) that I share within my website.
 It describe how to create Azure ressources using terraform.
 This Terraform script automates the provisioning of Azure resources required for implementing a real-time financial transaction monitoring system using Azure Event Hub. The script will create the following resources:
 - Azure Event Hub Namespace
